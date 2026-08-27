@@ -1,5 +1,5 @@
 **Description:**  
-This project will serve as an artificat for course work in **COSC-650 Applied LLM Systems**, for Fall 2026. 
+This project will serve as an artificat for course work in **COSC-650 Applied LLM Systems**, during the Fall of 2026. 
 
 **About the course**  
 COSC-650 Applied LLM Systems is a new course offering in Maryville University's Computer Science department. This course will satisify 3 elective credits in the M.S Artificial Intelligence course path. 
