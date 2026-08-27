@@ -16,7 +16,7 @@ The 8 week course will cover the topics below. Additional details and context wi
 
 
 **Repository Layout**  
-Weeks 1-8 can be found in src. Each folder will contain course week related to that week. I created a scripts folder to manage a shared library of code that each week can import from. Whenever it makes sense to created shared functions, they will be placed there. There will likely be a requirements.txt file associated with each week, to allow for easier dependency management. 
+Weeks 1-8 can be found in src. Each folder will contain course work related to that week. I created a scripts folder to manage a shared library of code that each week can import from. Whenever it might makes sense to created shared functions, they will be placed there. There will likely be a requirements.txt file associated with each week, to allow for easier dependency management.
 
 **Technologies**
 Python, Jupyter, Anthropic SDKs.
