@@ -11,7 +11,7 @@ fine-tuning, and evaluation.
 - Each week's folder will contain relevant course material for that week
 - Python depedencies will be granular for each week and managed in the week's folder
 - scripts will contain shared functionality that can be shared across weeks
-- CLAUDE.md : this file
+- GEMINI.md : this file
 - README.md : human-facing project description
 
 ## Conventions
@@ -22,5 +22,5 @@ fine-tuning, and evaluation.
 
 ## Do Not
 - Delete files or directories without confirming first
-- Push to main without checking what is staged
+- Push to main.
 - Commit API keys or any file in .env
