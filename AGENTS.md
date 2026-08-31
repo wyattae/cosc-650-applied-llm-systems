@@ -9,10 +9,10 @@ fine-tuning, and evaluation.
 ## Structure
 - src/week1 through week8, will contain weekly assignments and notebooks
 - Each week's folder will contain relevant course material for that week
-- Python depedencies will be granular for each week and managed in the week's folder
+- README.md inside of each src/week. This will detail agent and AI usage and other important notes
 - scripts will contain shared functionality that can be shared across weeks
-- GEMINI.md : this file
-- README.md : human-facing project description
+- AGENTS.md : this file
+- README.md : human-facing project description at project root
 
 ## Conventions
 - Notebooks are saved from Google Colab via File > Save a copy in GitHub
