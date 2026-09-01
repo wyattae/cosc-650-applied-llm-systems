@@ -1,0 +1,13 @@
+https://craigtrim.com/articles/git-workflow-basics/
+
+https://craigtrim.com/articles/github-as-infrastructure/
+
+https://craigtrim.com/articles/tokenization/
+
+https://craigtrim.com/articles/bpe-history/
+
+https://craigtrim.com/articles/breaking-text/
+
+https://craigtrim.com/articles/multilingual-tax/
+
+https://craigtrim.com/articles/glitch-tokens/
