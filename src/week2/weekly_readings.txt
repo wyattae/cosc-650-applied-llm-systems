@@ -1,0 +1,7 @@
+https://craigtrim.com/articles/transformer-architecture-review/
+
+https://craigtrim.com/articles/words-learning-company-they-keep/
+
+https://craigtrim.com/articles/inference-pipeline/
+
+https://craigtrim.com/articles/context-windows-token-limits/
