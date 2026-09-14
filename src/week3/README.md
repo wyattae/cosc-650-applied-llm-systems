@@ -1,4 +1,8 @@
 # Week 3 Setup
+Project 3 Disclaimers:
+GPT-5.6 Sol was used to analyze results and generate code within this project. Code was reviewed and 
+fully understood before implementing. 
+
 
 This project uses a Python virtual environment to keep dependencies isolated from your system Python installation.
 
