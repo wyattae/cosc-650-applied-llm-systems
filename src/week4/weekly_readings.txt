@@ -1,0 +1,11 @@
+https://craigtrim.com/articles/from-prompts-to-actions/
+
+https://craigtrim.com/articles/function-calling-mechanics/
+
+https://craigtrim.com/articles/token-burn-is-not-productivity/
+
+https://craigtrim.com/articles/reliable-tool-schemas/
+
+https://craigtrim.com/articles/tool-loops/
+
+https://craigtrim.com/articles/prompt-injection/
