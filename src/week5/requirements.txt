@@ -1,3 +1,7 @@
 openai
 sentence-transformers
 ipykernel
+faiss-cpu
+pypdf
+cryptography>=3.1
+fonttools
