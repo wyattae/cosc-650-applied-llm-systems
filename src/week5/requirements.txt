@@ -5,3 +5,4 @@ faiss-cpu
 pypdf
 cryptography>=3.1
 fonttools
+pandas
