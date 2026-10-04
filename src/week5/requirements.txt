@@ -6,3 +6,5 @@ pypdf
 cryptography>=3.1
 fonttools
 pandas
+ragas==0.3.9
+langchain-community
