@@ -1,0 +1,11 @@
+https://craigtrim.com/articles/classic-search/
+
+https://craigtrim.com/articles/simplest-possible-rag/
+
+https://craigtrim.com/articles/vector-rag/
+
+https://craigtrim.com/articles/measuring-retrieval/
+
+https://craigtrim.com/articles/retrieval-provenance/
+
+https://craigtrim.com/articles/the-amortization-assumption/

@@ -1,0 +1,13 @@
+https://craigtrim.com/articles/reranking-second-chance/
+
+https://craigtrim.com/articles/graphrag/
+
+https://craigtrim.com/articles/ontology-driven-parsing/
+
+https://craigtrim.com/articles/structured-data-rag/
+
+https://craigtrim.com/articles/ragas-evaluation/
+
+https://craigtrim.com/articles/llm-as-judge/
+
+https://craigtrim.com/articles/human-evaluation/
