@@ -1,0 +1,13 @@
+https://craigtrim.com/articles/adaptation-decision/
+
+https://craigtrim.com/articles/lora-efficiency/
+
+https://craigtrim.com/articles/fine-tuning-data/
+
+https://craigtrim.com/articles/fine-tuning-the-teacher/
+
+https://craigtrim.com/articles/knowledge-distillation/
+
+https://craigtrim.com/articles/bias-in-fine-tuned-models/
+
+https://craigtrim.com/articles/fairness-testing/
