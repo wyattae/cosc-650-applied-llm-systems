@@ -1,0 +1,320 @@
+{"text": "I need a refund for the smartwatch I purchased last week", "label": "billing"}
+{"text": "I requested a delivery date change for my monitor this afternoon", "label": "shipping"}
+{"text": "I kept getting an error message in the product registration page last week", "label": "technical"}
+{"text": "I needed to update my business profile last week", "label": "account"}
+{"text": "I was charged for my headphones even though I canceled the order two days ago", "label": "billing"}
+{"text": "I couldn't access my student account settings over the weekend", "label": "account"}
+{"text": "I tried to recover my personal account on Tuesday", "label": "account"}
+{"text": "I received an unexpected fee for my webcam on Monday", "label": "billing"}
+{"text": "I received the wrong webcam in my delivery three days ago", "label": "shipping"}
+{"text": "My payment for my phone has been pending since yesterday", "label": "billing"}
+{"text": "I couldn't access my administrator account settings over the weekend", "label": "account"}
+{"text": "My headphones arrived damaged on Monday", "label": "shipping"}
+{"text": "I need a refund for the webcam I purchased last week", "label": "billing"}
+{"text": "My personal account has been locked since Tuesday morning", "label": "account"}
+{"text": "I needed to update my customer profile on Tuesday", "label": "account"}
+{"text": "I tried to reset my subscription password this morning", "label": "account"}
+{"text": "My payment for my phone has been pending since last Tuesday", "label": "billing"}
+{"text": "I couldn't upload files through the product registration page three days ago", "label": "technical"}
+{"text": "I couldn't upload files through the website today", "label": "technical"}
+{"text": "The shopping app failed to load properly this morning", "label": "technical"}
+{"text": "I tried to recover my family account three days ago", "label": "account"}
+{"text": "The order management page stopped responding on Tuesday", "label": "technical"}
+{"text": "My student account was disabled over the weekend", "label": "account"}
+{"text": "I couldn't log into my subscription account on Monday", "label": "account"}
+{"text": "The dashboard has been running slowly since this morning", "label": "technical"}
+{"text": "I was charged twice for my phone three days ago", "label": "billing"}
+{"text": "I need a receipt for the laptop I purchased yesterday", "label": "billing"}
+{"text": "I kept getting an error message in the website today", "label": "technical"}
+{"text": "The checkout page froze while I was using it this afternoon", "label": "technical"}
+{"text": "I tried to recover my online account three days ago", "label": "account"}
+{"text": "I noticed the delivery address for my printer was incorrect on Friday", "label": "shipping"}
+{"text": "The desktop app froze while I was using it this afternoon", "label": "technical"}
+{"text": "The website froze while I was using it on Friday", "label": "technical"}
+{"text": "My payment for my headphones has been pending since last week", "label": "billing"}
+{"text": "My laptop package arrived with missing parts last week", "label": "shipping"}
+{"text": "I need a refund for the phone I purchased last night", "label": "billing"}
+{"text": "I need a refund for the monitor I purchased on Friday", "label": "billing"}
+{"text": "I was charged twice for my webcam this morning", "label": "billing"}
+{"text": "The product registration page displayed a blank screen on Friday", "label": "technical"}
+{"text": "My payment for my phone was declined this afternoon", "label": "billing"}
+{"text": "I haven't received my refund for my laptop since last Tuesday", "label": "billing"}
+{"text": "I couldn't access my online account settings on Friday", "label": "account"}
+{"text": "I couldn't verify my company account last week", "label": "account"}
+{"text": "I couldn't download anything from the payment portal two days ago", "label": "technical"}
+{"text": "The order management page keeps crashing three days ago", "label": "technical"}
+{"text": "I couldn't upload files through the website on Friday", "label": "technical"}
+{"text": "I found out the courier lost my headphones package on Friday", "label": "shipping"}
+{"text": "I checked the delivery status of my printer on Tuesday", "label": "shipping"}
+{"text": "The desktop app keeps crashing last week", "label": "technical"}
+{"text": "The checkout page froze while I was using it last night", "label": "technical"}
+{"text": "I couldn't verify my shopping account two days ago", "label": "account"}
+{"text": "I couldn't verify my administrator account last week", "label": "account"}
+{"text": "The tracking information for my phone hasn't updated since last Tuesday", "label": "shipping"}
+{"text": "I couldn't download anything from the dashboard over the weekend", "label": "technical"}
+{"text": "My charger arrived damaged this afternoon", "label": "shipping"}
+{"text": "The mobile app stopped responding last week", "label": "technical"}
+{"text": "The account dashboard keeps crashing on Tuesday", "label": "technical"}
+{"text": "I was charged for my webcam even though I canceled the order this morning", "label": "billing"}
+{"text": "My headphones shipment was delayed on Tuesday", "label": "shipping"}
+{"text": "I couldn't verify my online account over the weekend", "label": "account"}
+{"text": "The support portal stopped responding today", "label": "technical"}
+{"text": "The discount on my keyboard wasn't applied over the weekend", "label": "billing"}
+{"text": "I received the wrong keyboard in my delivery two days ago", "label": "shipping"}
+{"text": "I tried to change the email on my customer account on Tuesday", "label": "account"}
+{"text": "I requested to close my online account this morning", "label": "account"}
+{"text": "The support portal stopped responding last night", "label": "technical"}
+{"text": "I couldn't upload files through the checkout page yesterday", "label": "technical"}
+{"text": "My online account was disabled today", "label": "account"}
+{"text": "The order management page stopped responding on Friday", "label": "technical"}
+{"text": "My payment for my headphones has been pending since Tuesday morning", "label": "billing"}
+{"text": "My payment for my webcam has been pending since Tuesday morning", "label": "billing"}
+{"text": "The shopping app crashed when I tried to submit a form three days ago", "label": "technical"}
+{"text": "The desktop app stopped responding two days ago", "label": "technical"}
+{"text": "The product registration page crashed when I tried to submit a form last week", "label": "technical"}
+{"text": "My payment for my webcam was declined on Friday", "label": "billing"}
+{"text": "The tracking information for my headphones hasn't updated since last Monday", "label": "shipping"}
+{"text": "My laptop still hadn't arrived as of today", "label": "shipping"}
+{"text": "My invoice for my laptop showed the wrong amount three days ago", "label": "billing"}
+{"text": "The tracking information for my smartwatch hasn't updated since last Friday", "label": "shipping"}
+{"text": "I got an error when opening the mobile app this afternoon", "label": "technical"}
+{"text": "I was charged twice for my laptop this afternoon", "label": "billing"}
+{"text": "I need a refund for the phone I purchased last week", "label": "billing"}
+{"text": "I need a refund for the webcam I purchased today", "label": "billing"}
+{"text": "I couldn't upload files through the shopping app today", "label": "technical"}
+{"text": "My administrator password reset link expired this afternoon", "label": "account"}
+{"text": "I received the wrong mouse in my delivery over the weekend", "label": "shipping"}
+{"text": "I was charged twice for my phone on Friday", "label": "billing"}
+{"text": "My tablet package arrived with missing parts three days ago", "label": "shipping"}
+{"text": "My webcam was marked as delivered but was missing two days ago", "label": "shipping"}
+{"text": "I got an error when opening the product registration page last night", "label": "technical"}
+{"text": "I got an error when opening the mobile app yesterday", "label": "technical"}
+{"text": "I requested to close my business account this afternoon", "label": "account"}
+{"text": "I couldn't log into my premium account three days ago", "label": "account"}
+{"text": "I couldn't log into my subscription account on Friday", "label": "account"}
+{"text": "My headphones shipment has been stuck in transit since Tuesday morning", "label": "shipping"}
+{"text": "The discount on my mouse wasn't applied today", "label": "billing"}
+{"text": "The website displayed a blank screen on Tuesday", "label": "technical"}
+{"text": "I couldn't verify my subscription account last night", "label": "account"}
+{"text": "My phone package arrived with missing parts this morning", "label": "shipping"}
+{"text": "The payment portal keeps crashing today", "label": "technical"}
+{"text": "I haven't received my refund for my phone since this morning", "label": "billing"}
+{"text": "I couldn't access my company account settings on Friday", "label": "account"}
+{"text": "I received the wrong phone in my delivery on Friday", "label": "shipping"}
+{"text": "I noticed the delivery address for my keyboard was incorrect three days ago", "label": "shipping"}
+{"text": "I checked the delivery status of my charger two days ago", "label": "shipping"}
+{"text": "My work password reset link expired on Friday", "label": "account"}
+{"text": "I was charged for my charger even though I canceled the order this afternoon", "label": "billing"}
+{"text": "The account dashboard displayed a blank screen last night", "label": "technical"}
+{"text": "The order management page crashed when I tried to submit a form on Tuesday", "label": "technical"}
+{"text": "I noticed a bug in the checkout page on Tuesday", "label": "technical"}
+{"text": "My laptop still hadn't arrived as of this morning", "label": "shipping"}
+{"text": "The customer portal froze while I was using it yesterday", "label": "technical"}
+{"text": "I need a receipt for the webcam I purchased on Tuesday", "label": "billing"}
+{"text": "Why was I billed extra for my keyboard today?", "label": "billing"}
+{"text": "My family account was disabled on Tuesday", "label": "account"}
+{"text": "I noticed the delivery address for my laptop was incorrect on Tuesday", "label": "shipping"}
+{"text": "The dashboard has been running slowly since Tuesday morning", "label": "technical"}
+{"text": "I requested to close my administrator account this morning", "label": "account"}
+{"text": "My invoice for my monitor showed the wrong amount last night", "label": "billing"}
+{"text": "I couldn't upload files through the customer portal on Monday", "label": "technical"}
+{"text": "I checked the delivery status of my speaker on Monday", "label": "shipping"}
+{"text": "My payment for my speaker was declined last week", "label": "billing"}
+{"text": "My invoice for my headphones showed the wrong amount over the weekend", "label": "billing"}
+{"text": "I couldn't enable two-factor authentication on my business account this afternoon", "label": "account"}
+{"text": "The website keeps crashing on Tuesday", "label": "technical"}
+{"text": "My payment for my printer was declined two days ago", "label": "billing"}
+{"text": "I noticed a bug in the account dashboard on Tuesday", "label": "technical"}
+{"text": "I couldn't enable two-factor authentication on my subscription account on Friday", "label": "account"}
+{"text": "I tried to recover my subscription account this afternoon", "label": "account"}
+{"text": "I found out the courier lost my keyboard package on Monday", "label": "shipping"}
+{"text": "My charger was marked as delivered but was missing three days ago", "label": "shipping"}
+{"text": "I haven't received my refund for my mouse since Tuesday morning", "label": "billing"}
+{"text": "I tried to recover my premium account this morning", "label": "account"}
+{"text": "My charger still hadn't arrived as of Friday", "label": "shipping"}
+{"text": "The tracking information for my printer hasn't updated since yesterday", "label": "shipping"}
+{"text": "My monitor shipment has been stuck in transit since this morning", "label": "shipping"}
+{"text": "I requested to close my shopping account over the weekend", "label": "account"}
+{"text": "The discount on my mouse wasn't applied this morning", "label": "billing"}
+{"text": "My keyboard package arrived with missing parts last night", "label": "shipping"}
+{"text": "My mouse was marked as delivered but was missing yesterday", "label": "shipping"}
+{"text": "I couldn't log into my shopping account on Monday", "label": "account"}
+{"text": "My customer account was disabled two days ago", "label": "account"}
+{"text": "I couldn't access my administrator account settings three days ago", "label": "account"}
+{"text": "I got an error when opening the checkout page this afternoon", "label": "technical"}
+{"text": "The discount on my phone wasn't applied on Monday", "label": "billing"}
+{"text": "My personal account was disabled two days ago", "label": "account"}
+{"text": "The discount on my tablet wasn't applied this morning", "label": "billing"}
+{"text": "My smartwatch shipment was delayed yesterday", "label": "shipping"}
+{"text": "The tracking information for my laptop hasn't updated since last Friday", "label": "shipping"}
+{"text": "I need a receipt for the laptop I purchased over the weekend", "label": "billing"}
+{"text": "I noticed an incorrect charge for my webcam on Tuesday", "label": "billing"}
+{"text": "My payment for my mouse was declined over the weekend", "label": "billing"}
+{"text": "I need a refund for the printer I purchased today", "label": "billing"}
+{"text": "My tablet shipment has been stuck in transit since last week", "label": "shipping"}
+{"text": "I noticed an incorrect charge for my monitor over the weekend", "label": "billing"}
+{"text": "I found out the courier lost my webcam package this morning", "label": "shipping"}
+{"text": "My keyboard package arrived with missing parts on Friday", "label": "shipping"}
+{"text": "I haven't received my refund for my charger since last Friday", "label": "billing"}
+{"text": "I couldn't upload files through the checkout page over the weekend", "label": "technical"}
+{"text": "I noticed the delivery address for my smartwatch was incorrect last week", "label": "shipping"}
+{"text": "I couldn't upload files through the customer portal over the weekend", "label": "technical"}
+{"text": "My online account was disabled over the weekend", "label": "account"}
+{"text": "I need a refund for the mouse I purchased this afternoon", "label": "billing"}
+{"text": "I found out the courier lost my smartwatch package this morning", "label": "shipping"}
+{"text": "The payment portal displayed a blank screen today", "label": "technical"}
+{"text": "My phone package arrived with missing parts over the weekend", "label": "shipping"}
+{"text": "I couldn't upload files through the desktop app on Tuesday", "label": "technical"}
+{"text": "My payment for my printer was declined last night", "label": "billing"}
+{"text": "I couldn't download anything from the account dashboard last night", "label": "technical"}
+{"text": "I tried to change the email on my company account last night", "label": "account"}
+{"text": "I got an error when opening the mobile app three days ago", "label": "technical"}
+{"text": "The order management page froze while I was using it over the weekend", "label": "technical"}
+{"text": "My laptop shipment has been stuck in transit since the weekend", "label": "shipping"}
+{"text": "I couldn't verify my shopping account on Tuesday", "label": "account"}
+{"text": "My invoice for my phone showed the wrong amount on Tuesday", "label": "billing"}
+{"text": "I was charged twice for my mouse this afternoon", "label": "billing"}
+{"text": "My mouse arrived damaged three days ago", "label": "shipping"}
+{"text": "The payment portal keeps crashing this afternoon", "label": "technical"}
+{"text": "I noticed the delivery address for my webcam was incorrect over the weekend", "label": "shipping"}
+{"text": "I need a receipt for the phone I purchased on Friday", "label": "billing"}
+{"text": "I tried to change the email on my work account three days ago", "label": "account"}
+{"text": "I couldn't access my business account settings this afternoon", "label": "account"}
+{"text": "My subscription password reset link expired on Monday", "label": "account"}
+{"text": "The product registration page keeps crashing last week", "label": "technical"}
+{"text": "My invoice for my charger showed the wrong amount yesterday", "label": "billing"}
+{"text": "I couldn't access my work account settings this morning", "label": "account"}
+{"text": "The desktop app displayed a blank screen three days ago", "label": "technical"}
+{"text": "My invoice for my tablet showed the wrong amount over the weekend", "label": "billing"}
+{"text": "My payment for my charger has been pending since this morning", "label": "billing"}
+{"text": "I tried to recover my shopping account on Tuesday", "label": "account"}
+{"text": "My speaker arrived damaged on Friday", "label": "shipping"}
+{"text": "I received the wrong printer in my delivery three days ago", "label": "shipping"}
+{"text": "I couldn't log into my personal account three days ago", "label": "account"}
+{"text": "I couldn't upload files through the payment portal on Tuesday", "label": "technical"}
+{"text": "I kept getting an error message in the mobile app two days ago", "label": "technical"}
+{"text": "I couldn't upload files through the account dashboard on Tuesday", "label": "technical"}
+{"text": "The website froze while I was using it two days ago", "label": "technical"}
+{"text": "I noticed the delivery address for my phone was incorrect on Tuesday", "label": "shipping"}
+{"text": "I couldn't download anything from the mobile app this morning", "label": "technical"}
+{"text": "My administrator account has been locked since last Tuesday", "label": "account"}
+{"text": "My payment for my tablet has been pending since last Tuesday", "label": "billing"}
+{"text": "My speaker package arrived with missing parts on Tuesday", "label": "shipping"}
+{"text": "I requested to close my personal account today", "label": "account"}
+{"text": "I requested to close my administrator account today", "label": "account"}
+{"text": "I needed to update my shopping profile today", "label": "account"}
+{"text": "My work account has been locked since last Friday", "label": "account"}
+{"text": "I was charged for my tablet even though I canceled the order yesterday", "label": "billing"}
+{"text": "I found out the courier lost my monitor package over the weekend", "label": "shipping"}
+{"text": "I received an unexpected fee for my smartwatch last week", "label": "billing"}
+{"text": "The discount on my speaker wasn't applied this morning", "label": "billing"}
+{"text": "My smartwatch still hadn't arrived as of yesterday", "label": "shipping"}
+{"text": "I was charged twice for my speaker yesterday", "label": "billing"}
+{"text": "I got an error when opening the customer portal on Tuesday", "label": "technical"}
+{"text": "My phone still hadn't arrived as of Tuesday", "label": "shipping"}
+{"text": "My invoice for my phone showed the wrong amount last week", "label": "billing"}
+{"text": "I was charged twice for my monitor last night", "label": "billing"}
+{"text": "I need a refund for the webcam I purchased two days ago", "label": "billing"}
+{"text": "The product registration page crashed when I tried to submit a form over the weekend", "label": "technical"}
+{"text": "I noticed an incorrect charge for my phone last week", "label": "billing"}
+{"text": "I need a receipt for the printer I purchased two days ago", "label": "billing"}
+{"text": "I tried to recover my customer account three days ago", "label": "account"}
+{"text": "I tried to change the email on my student account two days ago", "label": "account"}
+{"text": "The discount on my mouse wasn't applied over the weekend", "label": "billing"}
+{"text": "I haven't received my refund for my phone since last week", "label": "billing"}
+{"text": "I couldn't download anything from the payment portal this afternoon", "label": "technical"}
+{"text": "The account dashboard has been running slowly since this morning", "label": "technical"}
+{"text": "The tracking information for my speaker hasn't updated since last Monday", "label": "shipping"}
+{"text": "I received the wrong printer in my delivery this morning", "label": "shipping"}
+{"text": "I found out the courier lost my laptop package on Tuesday", "label": "shipping"}
+{"text": "I received an unexpected fee for my speaker three days ago", "label": "billing"}
+{"text": "My tablet shipment has been stuck in transit since last Tuesday", "label": "shipping"}
+{"text": "My keyboard was marked as delivered but was missing last night", "label": "shipping"}
+{"text": "My payment for my monitor has been pending since last Friday", "label": "billing"}
+{"text": "My mouse was marked as delivered but was missing three days ago", "label": "shipping"}
+{"text": "My headphones package arrived with missing parts on Tuesday", "label": "shipping"}
+{"text": "I noticed the delivery address for my webcam was incorrect on Monday", "label": "shipping"}
+{"text": "I tried to change the email on my business account last night", "label": "account"}
+{"text": "The tracking information for my tablet hasn't updated since last Monday", "label": "shipping"}
+{"text": "I received the wrong smartwatch in my delivery over the weekend", "label": "shipping"}
+{"text": "I checked the delivery status of my phone last night", "label": "shipping"}
+{"text": "I noticed a bug in the customer portal last night", "label": "technical"}
+{"text": "My invoice for my laptop showed the wrong amount last night", "label": "billing"}
+{"text": "I couldn't enable two-factor authentication on my student account this morning", "label": "account"}
+{"text": "I haven't received my refund for my tablet since the weekend", "label": "billing"}
+{"text": "I haven't received my refund for my speaker since last Monday", "label": "billing"}
+{"text": "I noticed an incorrect charge for my charger this afternoon", "label": "billing"}
+{"text": "My speaker still hadn't arrived as of Friday", "label": "shipping"}
+{"text": "I haven't received my refund for my webcam since the weekend", "label": "billing"}
+{"text": "The dashboard crashed when I tried to submit a form two days ago", "label": "technical"}
+{"text": "My business account was disabled on Tuesday", "label": "account"}
+{"text": "My mouse shipment was delayed on Monday", "label": "shipping"}
+{"text": "I noticed a bug in the support portal yesterday", "label": "technical"}
+{"text": "I kept getting an error message in the account dashboard last night", "label": "technical"}
+{"text": "I tried to change the email on my subscription account last week", "label": "account"}
+{"text": "My phone shipment has been stuck in transit since the weekend", "label": "shipping"}
+{"text": "I requested to close my work account this afternoon", "label": "account"}
+{"text": "My smartwatch was marked as delivered but was missing yesterday", "label": "shipping"}
+{"text": "I couldn't verify my shopping account last night", "label": "account"}
+{"text": "The payment portal froze while I was using it on Friday", "label": "technical"}
+{"text": "My monitor package arrived with missing parts on Friday", "label": "shipping"}
+{"text": "I tried to recover my premium account two days ago", "label": "account"}
+{"text": "The mobile app froze while I was using it last week", "label": "technical"}
+{"text": "I couldn't upload files through the order management page on Friday", "label": "technical"}
+{"text": "I haven't received my refund for my webcam since last Friday", "label": "billing"}
+{"text": "My payment for my monitor has been pending since last week", "label": "billing"}
+{"text": "I tried to change the email on my online account today", "label": "account"}
+{"text": "I checked the delivery status of my speaker on Friday", "label": "shipping"}
+{"text": "My laptop shipment was delayed this afternoon", "label": "shipping"}
+{"text": "My charger shipment has been stuck in transit since yesterday", "label": "shipping"}
+{"text": "I requested a delivery date change for my tablet over the weekend", "label": "shipping"}
+{"text": "I couldn't log into my administrator account this morning", "label": "account"}
+{"text": "I couldn't upload files through the website last night", "label": "technical"}
+{"text": "I haven't received my refund for my headphones since last week", "label": "billing"}
+{"text": "I got an error when opening the shopping app this morning", "label": "technical"}
+{"text": "I checked the delivery status of my webcam last week", "label": "shipping"}
+{"text": "My invoice for my charger showed the wrong amount on Friday", "label": "billing"}
+{"text": "The customer portal displayed a blank screen over the weekend", "label": "technical"}
+{"text": "The payment portal has been running slowly since yesterday", "label": "technical"}
+{"text": "My printer was marked as delivered but was missing last night", "label": "shipping"}
+{"text": "The order management page froze while I was using it last week", "label": "technical"}
+{"text": "My student password reset link expired this morning", "label": "account"}
+{"text": "I couldn't upload files through the order management page on Tuesday", "label": "technical"}
+{"text": "I received the wrong smartwatch in my delivery last week", "label": "shipping"}
+{"text": "I got an error when opening the order management page three days ago", "label": "technical"}
+{"text": "I couldn't log into my company account on Friday", "label": "account"}
+{"text": "I noticed the delivery address for my speaker was incorrect two days ago", "label": "shipping"}
+{"text": "The discount on my printer wasn't applied on Monday", "label": "billing"}
+{"text": "My premium account was disabled yesterday", "label": "account"}
+{"text": "I tried to reset my business password two days ago", "label": "account"}
+{"text": "I tried to reset my work password over the weekend", "label": "account"}
+{"text": "The mobile app stopped responding over the weekend", "label": "technical"}
+{"text": "I couldn't log into my company account today", "label": "account"}
+{"text": "I couldn't upload files through the product registration page last night", "label": "technical"}
+{"text": "Why was I billed extra for my laptop yesterday?", "label": "billing"}
+{"text": "I kept getting an error message in the order management page on Tuesday", "label": "technical"}
+{"text": "My administrator password reset link expired last night", "label": "account"}
+{"text": "The checkout page failed to load properly on Tuesday", "label": "technical"}
+{"text": "I couldn't verify my family account last week", "label": "account"}
+{"text": "I couldn't access my family account settings yesterday", "label": "account"}
+{"text": "I checked the delivery status of my webcam this morning", "label": "shipping"}
+{"text": "I found out the courier lost my laptop package over the weekend", "label": "shipping"}
+{"text": "I got an error when opening the desktop app over the weekend", "label": "technical"}
+{"text": "My charger shipment was delayed three days ago", "label": "shipping"}
+{"text": "The account dashboard crashed when I tried to submit a form last week", "label": "technical"}
+{"text": "My work password reset link expired last night", "label": "account"}
+{"text": "I haven't received my refund for my mouse since last week", "label": "billing"}
+{"text": "I couldn't enable two-factor authentication on my family account yesterday", "label": "account"}
+{"text": "I tried to change the email on my administrator account on Monday", "label": "account"}
+{"text": "I couldn't verify my student account yesterday", "label": "account"}
+{"text": "I was charged twice for my monitor last week", "label": "billing"}
+{"text": "My smartwatch was marked as delivered but was missing two days ago", "label": "shipping"}
+{"text": "I couldn't access my online account settings this morning", "label": "account"}
+{"text": "My payment for my speaker has been pending since last week", "label": "billing"}
+{"text": "I needed to update my company profile this morning", "label": "account"}
+{"text": "My smartwatch arrived damaged on Friday", "label": "shipping"}
+{"text": "Why was I billed extra for my phone two days ago?", "label": "billing"}
+{"text": "I tried to change the email on my family account three days ago", "label": "account"}
+{"text": "My work account has been locked since Tuesday morning", "label": "account"}
+{"text": "My tablet shipment has been stuck in transit since last Monday", "label": "shipping"}
+{"text": "I needed to update my student profile this morning", "label": "account"}
