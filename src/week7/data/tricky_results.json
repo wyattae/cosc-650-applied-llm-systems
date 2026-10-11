@@ -1,0 +1,242 @@
+[
+  {
+    "text": "My payment keeps getting declined because the checkout page freezes before the transaction finishes.",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "retrieved_examples": [
+      {
+        "text": "The payment portal froze while I was using it on Friday",
+        "label": "technical"
+      },
+      {
+        "text": "The checkout page froze while I was using it last night",
+        "label": "technical"
+      },
+      {
+        "text": "The checkout page froze while I was using it this afternoon",
+        "label": "technical"
+      },
+      {
+        "text": "My payment for my phone was declined this afternoon",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I received a password reset email, but it contained a charge for a subscription I never purchased.",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "retrieved_examples": [
+      {
+        "text": "My subscription password reset link expired on Monday",
+        "label": "account"
+      },
+      {
+        "text": "I tried to reset my subscription password this morning",
+        "label": "account"
+      },
+      {
+        "text": "I tried to recover my subscription account this afternoon",
+        "label": "account"
+      },
+      {
+        "text": "I tried to change the email on my subscription account last week",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "My order confirmation says delivered, but the package never arrived at my address.",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "retrieved_examples": [
+      {
+        "text": "I noticed the delivery address for my phone was incorrect on Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "I checked the delivery status of my phone last night",
+        "label": "shipping"
+      },
+      {
+        "text": "I noticed the delivery address for my printer was incorrect on Friday",
+        "label": "shipping"
+      },
+      {
+        "text": "I received the wrong phone in my delivery on Friday",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "The billing portal works perfectly, but it won't let me sign in after changing my password.",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "retrieved_examples": [
+      {
+        "text": "I tried to reset my subscription password this morning",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my subscription account on Friday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my shopping account on Monday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my subscription account on Monday",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "I need to update my shipping address, but the account settings page crashes every time I open it.",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "retrieved_examples": [
+      {
+        "text": "The checkout page froze while I was using it last night",
+        "label": "technical"
+      },
+      {
+        "text": "The order management page keeps crashing three days ago",
+        "label": "technical"
+      },
+      {
+        "text": "The order management page crashed when I tried to submit a form on Tuesday",
+        "label": "technical"
+      },
+      {
+        "text": "The website keeps crashing on Tuesday",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I can access my account and view my orders, but my refund was issued for the wrong amount.",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "retrieved_examples": [
+      {
+        "text": "I haven't received my refund for my phone since last week",
+        "label": "billing"
+      },
+      {
+        "text": "I haven't received my refund for my phone since this morning",
+        "label": "billing"
+      },
+      {
+        "text": "I haven't received my refund for my laptop since last Tuesday",
+        "label": "billing"
+      },
+      {
+        "text": "I need a refund for the phone I purchased last night",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "The delivery tracking page shows an error, but my actual concern is that my package was sent to the wrong warehouse.",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "retrieved_examples": [
+      {
+        "text": "I noticed the delivery address for my printer was incorrect on Friday",
+        "label": "shipping"
+      },
+      {
+        "text": "I noticed the delivery address for my laptop was incorrect on Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "I noticed the delivery address for my phone was incorrect on Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "I noticed the delivery address for my webcam was incorrect on Monday",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "My subscription payment succeeded, but my account was locked immediately afterward and I cannot log in.",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "retrieved_examples": [
+      {
+        "text": "I tried to recover my subscription account this afternoon",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my subscription account on Friday",
+        "label": "account"
+      },
+      {
+        "text": "I tried to reset my subscription password this morning",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my subscription account on Monday",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "The website says my order has shipped, but clicking the tracking button crashes the application.",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "retrieved_examples": [
+      {
+        "text": "The shopping app crashed when I tried to submit a form three days ago",
+        "label": "technical"
+      },
+      {
+        "text": "The order management page froze while I was using it over the weekend",
+        "label": "technical"
+      },
+      {
+        "text": "The order management page froze while I was using it last week",
+        "label": "technical"
+      },
+      {
+        "text": "I checked the delivery status of my phone last night",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I can't access the billing section because my account was suspended without explanation.",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "billing",
+    "retrieved_examples": [
+      {
+        "text": "I tried to recover my subscription account this afternoon",
+        "label": "account"
+      },
+      {
+        "text": "My customer account was disabled two days ago",
+        "label": "account"
+      },
+      {
+        "text": "My online account was disabled over the weekend",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't verify my subscription account last night",
+        "label": "account"
+      }
+    ]
+  }
+]

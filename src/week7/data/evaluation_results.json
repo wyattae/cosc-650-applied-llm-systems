@@ -1,0 +1,2082 @@
+[
+  {
+    "text": "Why was I billed extra for my printer over the weekend?",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "Why was I billed extra for my laptop yesterday?",
+        "label": "billing"
+      },
+      {
+        "text": "Why was I billed extra for my phone two days ago?",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my printer wasn't applied on Monday",
+        "label": "billing"
+      },
+      {
+        "text": "Why was I billed extra for my keyboard today?",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I couldn't enable two-factor authentication on my personal account today",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't enable two-factor authentication on my family account yesterday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't enable two-factor authentication on my business account this afternoon",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't enable two-factor authentication on my student account this morning",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't enable two-factor authentication on my subscription account on Friday",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "I noticed an incorrect charge for my phone this morning",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I noticed an incorrect charge for my phone last week",
+        "label": "billing"
+      },
+      {
+        "text": "I noticed an incorrect charge for my charger this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I noticed an incorrect charge for my monitor over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my phone three days ago",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I needed to update my administrator profile two days ago",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't access my administrator account settings three days ago",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't verify my administrator account last week",
+        "label": "account"
+      },
+      {
+        "text": "I needed to update my customer profile on Tuesday",
+        "label": "account"
+      },
+      {
+        "text": "I needed to update my business profile last week",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "My keyboard shipment was delayed two days ago",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I received the wrong keyboard in my delivery two days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "My keyboard was marked as delivered but was missing last night",
+        "label": "shipping"
+      },
+      {
+        "text": "I noticed the delivery address for my keyboard was incorrect three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "My laptop shipment was delayed this afternoon",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I got an error when opening the checkout page over the weekend",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I got an error when opening the checkout page this afternoon",
+        "label": "technical"
+      },
+      {
+        "text": "The checkout page failed to load properly on Tuesday",
+        "label": "technical"
+      },
+      {
+        "text": "I got an error when opening the customer portal on Tuesday",
+        "label": "technical"
+      },
+      {
+        "text": "I noticed a bug in the checkout page on Tuesday",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I requested a delivery date change for my printer over the weekend",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I checked the delivery status of my printer on Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "I noticed the delivery address for my printer was incorrect on Friday",
+        "label": "shipping"
+      },
+      {
+        "text": "I received the wrong printer in my delivery three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "I requested a delivery date change for my monitor this afternoon",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I couldn't enable two-factor authentication on my premium account this afternoon",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't enable two-factor authentication on my subscription account on Friday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't enable two-factor authentication on my business account this afternoon",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't enable two-factor authentication on my family account yesterday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't enable two-factor authentication on my student account this morning",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "I couldn't enable two-factor authentication on my online account this afternoon",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't enable two-factor authentication on my student account this morning",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't enable two-factor authentication on my business account this afternoon",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't enable two-factor authentication on my family account yesterday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't enable two-factor authentication on my subscription account on Friday",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "Why was I billed extra for my phone this morning?",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "Why was I billed extra for my phone two days ago?",
+        "label": "billing"
+      },
+      {
+        "text": "Why was I billed extra for my laptop yesterday?",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my phone on Friday",
+        "label": "billing"
+      },
+      {
+        "text": "Why was I billed extra for my keyboard today?",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "The product registration page keeps crashing two days ago",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The product registration page keeps crashing last week",
+        "label": "technical"
+      },
+      {
+        "text": "The product registration page crashed when I tried to submit a form last week",
+        "label": "technical"
+      },
+      {
+        "text": "The product registration page crashed when I tried to submit a form over the weekend",
+        "label": "technical"
+      },
+      {
+        "text": "I got an error when opening the product registration page last night",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "My payment for my monitor has been pending since yesterday",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My payment for my monitor has been pending since last week",
+        "label": "billing"
+      },
+      {
+        "text": "My payment for my monitor has been pending since last Friday",
+        "label": "billing"
+      },
+      {
+        "text": "My payment for my phone has been pending since yesterday",
+        "label": "billing"
+      },
+      {
+        "text": "My payment for my webcam has been pending since Tuesday morning",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I was charged for my tablet even though I canceled the order this morning",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I was charged for my tablet even though I canceled the order yesterday",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged for my charger even though I canceled the order this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged for my webcam even though I canceled the order this morning",
+        "label": "billing"
+      },
+      {
+        "text": "My payment for my tablet has been pending since last Tuesday",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "The mobile app has been running slowly since the weekend",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The mobile app stopped responding over the weekend",
+        "label": "technical"
+      },
+      {
+        "text": "The mobile app stopped responding last week",
+        "label": "technical"
+      },
+      {
+        "text": "The mobile app froze while I was using it last week",
+        "label": "technical"
+      },
+      {
+        "text": "The dashboard has been running slowly since Tuesday morning",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I was charged for my smartwatch even though I canceled the order today",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I received an unexpected fee for my smartwatch last week",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged for my tablet even though I canceled the order yesterday",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged for my charger even though I canceled the order this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged for my webcam even though I canceled the order this morning",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "My charger shipment was delayed over the weekend",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My charger shipment was delayed three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "I checked the delivery status of my charger two days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "My charger still hadn't arrived as of Friday",
+        "label": "shipping"
+      },
+      {
+        "text": "My charger was marked as delivered but was missing three days ago",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "My laptop arrived damaged three days ago",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My laptop still hadn't arrived as of today",
+        "label": "shipping"
+      },
+      {
+        "text": "My laptop package arrived with missing parts last week",
+        "label": "shipping"
+      },
+      {
+        "text": "My laptop still hadn't arrived as of this morning",
+        "label": "shipping"
+      },
+      {
+        "text": "My mouse arrived damaged three days ago",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "The customer portal stopped responding on Friday",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The support portal stopped responding today",
+        "label": "technical"
+      },
+      {
+        "text": "The support portal stopped responding last night",
+        "label": "technical"
+      },
+      {
+        "text": "The customer portal froze while I was using it yesterday",
+        "label": "technical"
+      },
+      {
+        "text": "The payment portal froze while I was using it on Friday",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "My tablet was marked as delivered but was missing over the weekend",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My tablet package arrived with missing parts three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "My keyboard was marked as delivered but was missing last night",
+        "label": "shipping"
+      },
+      {
+        "text": "My tablet shipment has been stuck in transit since last Monday",
+        "label": "shipping"
+      },
+      {
+        "text": "My smartwatch was marked as delivered but was missing yesterday",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "My payment for my laptop was declined yesterday",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My payment for my phone was declined this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "My payment for my mouse was declined over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "My payment for my printer was declined last night",
+        "label": "billing"
+      },
+      {
+        "text": "My payment for my webcam was declined on Friday",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "My customer password reset link expired last night",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My work password reset link expired last night",
+        "label": "account"
+      },
+      {
+        "text": "My student password reset link expired this morning",
+        "label": "account"
+      },
+      {
+        "text": "My work password reset link expired on Friday",
+        "label": "account"
+      },
+      {
+        "text": "My administrator password reset link expired last night",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "My printer package arrived with missing parts three days ago",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My printer was marked as delivered but was missing last night",
+        "label": "shipping"
+      },
+      {
+        "text": "My phone package arrived with missing parts this morning",
+        "label": "shipping"
+      },
+      {
+        "text": "I received the wrong printer in my delivery three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "My phone package arrived with missing parts over the weekend",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "The shopping app stopped responding on Friday",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The shopping app failed to load properly this morning",
+        "label": "technical"
+      },
+      {
+        "text": "The mobile app stopped responding over the weekend",
+        "label": "technical"
+      },
+      {
+        "text": "The mobile app stopped responding last week",
+        "label": "technical"
+      },
+      {
+        "text": "The shopping app crashed when I tried to submit a form three days ago",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I requested to close my premium account this afternoon",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I requested to close my personal account today",
+        "label": "account"
+      },
+      {
+        "text": "I requested to close my business account this afternoon",
+        "label": "account"
+      },
+      {
+        "text": "I requested to close my online account this morning",
+        "label": "account"
+      },
+      {
+        "text": "I requested to close my work account this afternoon",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "The mobile app has been running slowly since last week",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The mobile app stopped responding last week",
+        "label": "technical"
+      },
+      {
+        "text": "The mobile app froze while I was using it last week",
+        "label": "technical"
+      },
+      {
+        "text": "The mobile app stopped responding over the weekend",
+        "label": "technical"
+      },
+      {
+        "text": "The dashboard has been running slowly since Tuesday morning",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "My administrator account was disabled last night",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't log into my administrator account this morning",
+        "label": "account"
+      },
+      {
+        "text": "My administrator account has been locked since last Tuesday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't access my administrator account settings over the weekend",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't access my administrator account settings three days ago",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "I need a receipt for the phone I purchased yesterday",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I need a receipt for the phone I purchased on Friday",
+        "label": "billing"
+      },
+      {
+        "text": "I need a refund for the phone I purchased last night",
+        "label": "billing"
+      },
+      {
+        "text": "I need a refund for the phone I purchased last week",
+        "label": "billing"
+      },
+      {
+        "text": "I need a receipt for the printer I purchased two days ago",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I was charged twice for my laptop today",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I was charged twice for my laptop this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my monitor last night",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my phone on Friday",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my mouse this afternoon",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "The tracking information for my webcam hasn't updated since last Monday",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The tracking information for my phone hasn't updated since last Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "The tracking information for my smartwatch hasn't updated since last Friday",
+        "label": "shipping"
+      },
+      {
+        "text": "The tracking information for my tablet hasn't updated since last Monday",
+        "label": "shipping"
+      },
+      {
+        "text": "I checked the delivery status of my webcam last week",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I was charged twice for my keyboard last night",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I was charged twice for my laptop this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my monitor last night",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my mouse this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my phone on Friday",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I received an unexpected fee for my mouse over the weekend",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My payment for my mouse was declined over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my mouse this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I haven't received my refund for my mouse since Tuesday morning",
+        "label": "billing"
+      },
+      {
+        "text": "I received an unexpected fee for my smartwatch last week",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I found out the courier lost my tablet package two days ago",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I found out the courier lost my laptop package on Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "I found out the courier lost my laptop package over the weekend",
+        "label": "shipping"
+      },
+      {
+        "text": "I found out the courier lost my keyboard package on Monday",
+        "label": "shipping"
+      },
+      {
+        "text": "I found out the courier lost my smartwatch package this morning",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I found out the courier lost my webcam package on Friday",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I found out the courier lost my webcam package this morning",
+        "label": "shipping"
+      },
+      {
+        "text": "I found out the courier lost my monitor package over the weekend",
+        "label": "shipping"
+      },
+      {
+        "text": "I found out the courier lost my laptop package over the weekend",
+        "label": "shipping"
+      },
+      {
+        "text": "I found out the courier lost my laptop package on Tuesday",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I needed to update my subscription profile two days ago",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I needed to update my customer profile on Tuesday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't verify my subscription account last night",
+        "label": "account"
+      },
+      {
+        "text": "I tried to change the email on my subscription account last week",
+        "label": "account"
+      },
+      {
+        "text": "I needed to update my business profile last week",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "I couldn't log into my customer account on Friday",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't log into my company account on Friday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my subscription account on Friday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my shopping account on Monday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my company account today",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "I requested to close my premium account last night",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I requested to close my personal account today",
+        "label": "account"
+      },
+      {
+        "text": "I requested to close my online account this morning",
+        "label": "account"
+      },
+      {
+        "text": "I requested to close my business account this afternoon",
+        "label": "account"
+      },
+      {
+        "text": "I requested to close my administrator account this morning",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "My monitor shipment was delayed on Tuesday",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My monitor shipment has been stuck in transit since this morning",
+        "label": "shipping"
+      },
+      {
+        "text": "My smartwatch shipment was delayed yesterday",
+        "label": "shipping"
+      },
+      {
+        "text": "My laptop shipment was delayed this afternoon",
+        "label": "shipping"
+      },
+      {
+        "text": "I requested a delivery date change for my monitor this afternoon",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I tried to change the email on my administrator account this morning",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I tried to change the email on my administrator account on Monday",
+        "label": "account"
+      },
+      {
+        "text": "I tried to change the email on my company account last night",
+        "label": "account"
+      },
+      {
+        "text": "I tried to change the email on my customer account on Tuesday",
+        "label": "account"
+      },
+      {
+        "text": "I tried to change the email on my business account last night",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "The discount on my laptop wasn't applied last night",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The discount on my tablet wasn't applied this morning",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my keyboard wasn't applied over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my phone wasn't applied on Monday",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my mouse wasn't applied today",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "The product registration page crashed when I tried to submit a form on Friday",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The product registration page crashed when I tried to submit a form over the weekend",
+        "label": "technical"
+      },
+      {
+        "text": "The product registration page crashed when I tried to submit a form last week",
+        "label": "technical"
+      },
+      {
+        "text": "The product registration page keeps crashing last week",
+        "label": "technical"
+      },
+      {
+        "text": "The product registration page displayed a blank screen on Friday",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "The discount on my keyboard wasn't applied this afternoon",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The discount on my keyboard wasn't applied over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my tablet wasn't applied this morning",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my mouse wasn't applied today",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my mouse wasn't applied this morning",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I couldn't verify my customer account on Monday",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't verify my shopping account on Tuesday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't verify my company account last week",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't verify my online account over the weekend",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't verify my shopping account two days ago",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "My printer shipment was delayed today",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I checked the delivery status of my printer on Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "I received the wrong printer in my delivery three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "My laptop shipment was delayed this afternoon",
+        "label": "shipping"
+      },
+      {
+        "text": "My printer was marked as delivered but was missing last night",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I haven't received my refund for my tablet since last Monday",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I haven't received my refund for my tablet since the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "I haven't received my refund for my laptop since last Tuesday",
+        "label": "billing"
+      },
+      {
+        "text": "I haven't received my refund for my phone since last week",
+        "label": "billing"
+      },
+      {
+        "text": "I haven't received my refund for my phone since this morning",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "The discount on my mouse wasn't applied on Friday",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The discount on my mouse wasn't applied over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my mouse wasn't applied today",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my mouse wasn't applied this morning",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my keyboard wasn't applied over the weekend",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "The website froze while I was using it last week",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The website froze while I was using it two days ago",
+        "label": "technical"
+      },
+      {
+        "text": "The website froze while I was using it on Friday",
+        "label": "technical"
+      },
+      {
+        "text": "The customer portal froze while I was using it yesterday",
+        "label": "technical"
+      },
+      {
+        "text": "The mobile app froze while I was using it last week",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "The desktop app stopped responding three days ago",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The desktop app stopped responding two days ago",
+        "label": "technical"
+      },
+      {
+        "text": "The desktop app froze while I was using it this afternoon",
+        "label": "technical"
+      },
+      {
+        "text": "The desktop app displayed a blank screen three days ago",
+        "label": "technical"
+      },
+      {
+        "text": "The mobile app stopped responding last week",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I found out the courier lost my speaker package this morning",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I found out the courier lost my headphones package on Friday",
+        "label": "shipping"
+      },
+      {
+        "text": "I found out the courier lost my laptop package over the weekend",
+        "label": "shipping"
+      },
+      {
+        "text": "I found out the courier lost my laptop package on Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "I found out the courier lost my keyboard package on Monday",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I couldn't log into my personal account today",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't log into my personal account three days ago",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my company account today",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my company account on Friday",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't log into my administrator account this morning",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "My family password reset link expired two days ago",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My work password reset link expired last night",
+        "label": "account"
+      },
+      {
+        "text": "My work password reset link expired on Friday",
+        "label": "account"
+      },
+      {
+        "text": "My administrator password reset link expired last night",
+        "label": "account"
+      },
+      {
+        "text": "My administrator password reset link expired this afternoon",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "I received the wrong keyboard in my delivery over the weekend",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I received the wrong keyboard in my delivery two days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "I noticed the delivery address for my keyboard was incorrect three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "My keyboard was marked as delivered but was missing last night",
+        "label": "shipping"
+      },
+      {
+        "text": "My keyboard package arrived with missing parts last night",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "The payment portal crashed when I tried to submit a form on Monday",
+    "true_label": "technical",
+    "zero_pred": "billing",
+    "few_pred": "technical",
+    "zero_correct": false,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The payment portal keeps crashing this afternoon",
+        "label": "technical"
+      },
+      {
+        "text": "The payment portal froze while I was using it on Friday",
+        "label": "technical"
+      },
+      {
+        "text": "The payment portal keeps crashing today",
+        "label": "technical"
+      },
+      {
+        "text": "I couldn't upload files through the payment portal on Tuesday",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "The dashboard stopped responding last week",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The dashboard crashed when I tried to submit a form two days ago",
+        "label": "technical"
+      },
+      {
+        "text": "The account dashboard crashed when I tried to submit a form last week",
+        "label": "technical"
+      },
+      {
+        "text": "The dashboard has been running slowly since Tuesday morning",
+        "label": "technical"
+      },
+      {
+        "text": "I couldn't download anything from the dashboard over the weekend",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "The checkout page failed to load properly this afternoon",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The checkout page failed to load properly on Tuesday",
+        "label": "technical"
+      },
+      {
+        "text": "I got an error when opening the checkout page this afternoon",
+        "label": "technical"
+      },
+      {
+        "text": "The checkout page froze while I was using it this afternoon",
+        "label": "technical"
+      },
+      {
+        "text": "The checkout page froze while I was using it last night",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I received the wrong mouse in my delivery today",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I received the wrong mouse in my delivery over the weekend",
+        "label": "shipping"
+      },
+      {
+        "text": "My mouse was marked as delivered but was missing three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "My mouse was marked as delivered but was missing yesterday",
+        "label": "shipping"
+      },
+      {
+        "text": "My mouse shipment was delayed on Monday",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I couldn't upload files through the mobile app last week",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't upload files through the shopping app today",
+        "label": "technical"
+      },
+      {
+        "text": "I couldn't upload files through the desktop app on Tuesday",
+        "label": "technical"
+      },
+      {
+        "text": "I couldn't upload files through the website today",
+        "label": "technical"
+      },
+      {
+        "text": "I couldn't upload files through the website on Friday",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I received an unexpected fee for my keyboard on Friday",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "Why was I billed extra for my keyboard today?",
+        "label": "billing"
+      },
+      {
+        "text": "I received an unexpected fee for my smartwatch last week",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my keyboard wasn't applied over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "I received an unexpected fee for my webcam on Monday",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I tried to reset my business password on Tuesday",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I tried to reset my business password two days ago",
+        "label": "account"
+      },
+      {
+        "text": "I tried to reset my work password over the weekend",
+        "label": "account"
+      },
+      {
+        "text": "I tried to reset my subscription password this morning",
+        "label": "account"
+      },
+      {
+        "text": "My business account was disabled on Tuesday",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "I requested a delivery date change for my mouse today",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My mouse shipment was delayed on Monday",
+        "label": "shipping"
+      },
+      {
+        "text": "I received the wrong mouse in my delivery over the weekend",
+        "label": "shipping"
+      },
+      {
+        "text": "I requested a delivery date change for my tablet over the weekend",
+        "label": "shipping"
+      },
+      {
+        "text": "I requested a delivery date change for my monitor this afternoon",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "My online account has been locked since last Friday",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My personal account has been locked since Tuesday morning",
+        "label": "account"
+      },
+      {
+        "text": "My work account has been locked since last Friday",
+        "label": "account"
+      },
+      {
+        "text": "My work account has been locked since Tuesday morning",
+        "label": "account"
+      },
+      {
+        "text": "My administrator account has been locked since last Tuesday",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "I checked the delivery status of my speaker yesterday",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I checked the delivery status of my speaker on Monday",
+        "label": "shipping"
+      },
+      {
+        "text": "I checked the delivery status of my speaker on Friday",
+        "label": "shipping"
+      },
+      {
+        "text": "I noticed the delivery address for my speaker was incorrect two days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "My speaker still hadn't arrived as of Friday",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "The product registration page displayed a blank screen on Tuesday",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The product registration page displayed a blank screen on Friday",
+        "label": "technical"
+      },
+      {
+        "text": "I got an error when opening the product registration page last night",
+        "label": "technical"
+      },
+      {
+        "text": "The product registration page crashed when I tried to submit a form over the weekend",
+        "label": "technical"
+      },
+      {
+        "text": "The product registration page crashed when I tried to submit a form last week",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "My mouse was marked as delivered but was missing last night",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My mouse was marked as delivered but was missing yesterday",
+        "label": "shipping"
+      },
+      {
+        "text": "My mouse was marked as delivered but was missing three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "I received the wrong mouse in my delivery over the weekend",
+        "label": "shipping"
+      },
+      {
+        "text": "My mouse shipment was delayed on Monday",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "The support portal crashed when I tried to submit a form last week",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The support portal stopped responding last night",
+        "label": "technical"
+      },
+      {
+        "text": "The support portal stopped responding today",
+        "label": "technical"
+      },
+      {
+        "text": "The account dashboard crashed when I tried to submit a form last week",
+        "label": "technical"
+      },
+      {
+        "text": "The product registration page crashed when I tried to submit a form last week",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I noticed a bug in the desktop app on Monday",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I got an error when opening the desktop app over the weekend",
+        "label": "technical"
+      },
+      {
+        "text": "The desktop app keeps crashing last week",
+        "label": "technical"
+      },
+      {
+        "text": "The desktop app stopped responding two days ago",
+        "label": "technical"
+      },
+      {
+        "text": "The desktop app froze while I was using it this afternoon",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I was charged for my keyboard even though I canceled the order last night",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I was charged for my tablet even though I canceled the order yesterday",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged for my charger even though I canceled the order this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged for my headphones even though I canceled the order two days ago",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged for my webcam even though I canceled the order this morning",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "I got an error when opening the shopping app on Monday",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I got an error when opening the shopping app this morning",
+        "label": "technical"
+      },
+      {
+        "text": "The shopping app failed to load properly this morning",
+        "label": "technical"
+      },
+      {
+        "text": "I got an error when opening the mobile app this afternoon",
+        "label": "technical"
+      },
+      {
+        "text": "I got an error when opening the mobile app yesterday",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "My webcam was marked as delivered but was missing three days ago",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My webcam was marked as delivered but was missing two days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "I checked the delivery status of my webcam last week",
+        "label": "shipping"
+      },
+      {
+        "text": "I received the wrong webcam in my delivery three days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "I checked the delivery status of my webcam this morning",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I needed to update my subscription profile last week",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I needed to update my business profile last week",
+        "label": "account"
+      },
+      {
+        "text": "I needed to update my customer profile on Tuesday",
+        "label": "account"
+      },
+      {
+        "text": "I tried to change the email on my subscription account last week",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't verify my subscription account last night",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "My family account was disabled three days ago",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My family account was disabled on Tuesday",
+        "label": "account"
+      },
+      {
+        "text": "My personal account was disabled two days ago",
+        "label": "account"
+      },
+      {
+        "text": "I tried to recover my family account three days ago",
+        "label": "account"
+      },
+      {
+        "text": "My customer account was disabled two days ago",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "The dashboard keeps crashing three days ago",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The account dashboard keeps crashing on Tuesday",
+        "label": "technical"
+      },
+      {
+        "text": "The dashboard crashed when I tried to submit a form two days ago",
+        "label": "technical"
+      },
+      {
+        "text": "The account dashboard crashed when I tried to submit a form last week",
+        "label": "technical"
+      },
+      {
+        "text": "The dashboard has been running slowly since this morning",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I noticed an incorrect charge for my laptop yesterday",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I noticed an incorrect charge for my charger this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I noticed an incorrect charge for my phone last week",
+        "label": "billing"
+      },
+      {
+        "text": "I noticed an incorrect charge for my monitor over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "I was charged twice for my laptop this afternoon",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "My payment for my mouse was declined this morning",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My payment for my mouse was declined over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "My payment for my phone was declined this afternoon",
+        "label": "billing"
+      },
+      {
+        "text": "I haven't received my refund for my mouse since Tuesday morning",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my mouse wasn't applied this morning",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "My smartwatch still hadn't arrived as of this morning",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My smartwatch still hadn't arrived as of yesterday",
+        "label": "shipping"
+      },
+      {
+        "text": "My smartwatch was marked as delivered but was missing yesterday",
+        "label": "shipping"
+      },
+      {
+        "text": "My smartwatch was marked as delivered but was missing two days ago",
+        "label": "shipping"
+      },
+      {
+        "text": "I received the wrong smartwatch in my delivery over the weekend",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "The checkout page stopped responding last week",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The checkout page froze while I was using it this afternoon",
+        "label": "technical"
+      },
+      {
+        "text": "The checkout page froze while I was using it last night",
+        "label": "technical"
+      },
+      {
+        "text": "The checkout page failed to load properly on Tuesday",
+        "label": "technical"
+      },
+      {
+        "text": "The support portal stopped responding today",
+        "label": "technical"
+      }
+    ]
+  },
+  {
+    "text": "I tried to reset my customer password on Monday",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I tried to reset my work password over the weekend",
+        "label": "account"
+      },
+      {
+        "text": "I tried to reset my business password two days ago",
+        "label": "account"
+      },
+      {
+        "text": "I tried to reset my subscription password this morning",
+        "label": "account"
+      },
+      {
+        "text": "I tried to recover my customer account three days ago",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "The discount on my printer wasn't applied over the weekend",
+    "true_label": "billing",
+    "zero_pred": "billing",
+    "few_pred": "billing",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The discount on my printer wasn't applied on Monday",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my keyboard wasn't applied over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my mouse wasn't applied over the weekend",
+        "label": "billing"
+      },
+      {
+        "text": "The discount on my tablet wasn't applied this morning",
+        "label": "billing"
+      }
+    ]
+  },
+  {
+    "text": "My headphones arrived damaged three days ago",
+    "true_label": "shipping",
+    "zero_pred": "shipping",
+    "few_pred": "shipping",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "My headphones arrived damaged on Monday",
+        "label": "shipping"
+      },
+      {
+        "text": "My headphones package arrived with missing parts on Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "My headphones shipment was delayed on Tuesday",
+        "label": "shipping"
+      },
+      {
+        "text": "My headphones shipment has been stuck in transit since Tuesday morning",
+        "label": "shipping"
+      }
+    ]
+  },
+  {
+    "text": "I couldn't verify my subscription account yesterday",
+    "true_label": "account",
+    "zero_pred": "account",
+    "few_pred": "account",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "I couldn't verify my subscription account last night",
+        "label": "account"
+      },
+      {
+        "text": "I tried to recover my subscription account this afternoon",
+        "label": "account"
+      },
+      {
+        "text": "I couldn't verify my online account over the weekend",
+        "label": "account"
+      },
+      {
+        "text": "I tried to reset my subscription password this morning",
+        "label": "account"
+      }
+    ]
+  },
+  {
+    "text": "The checkout page froze while I was using it three days ago",
+    "true_label": "technical",
+    "zero_pred": "technical",
+    "few_pred": "technical",
+    "zero_correct": true,
+    "few_correct": true,
+    "retrieved_examples": [
+      {
+        "text": "The checkout page froze while I was using it last night",
+        "label": "technical"
+      },
+      {
+        "text": "The checkout page froze while I was using it this afternoon",
+        "label": "technical"
+      },
+      {
+        "text": "The website froze while I was using it two days ago",
+        "label": "technical"
+      },
+      {
+        "text": "The payment portal froze while I was using it on Friday",
+        "label": "technical"
+      }
+    ]
+  }
+]
