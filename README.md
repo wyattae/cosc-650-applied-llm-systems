@@ -24,7 +24,7 @@ The 8 week course will cover the topics below. Additional details and context wi
 
 
 **Repository Layout**  
-Weeks 1-8 can be found in src. Each folder will contain course work related to that week. I created a scripts folder to manage a shared library of code that each week can import from. Whenever it might makes sense to created shared functions, they will be placed there. There will likely be a requirements.txt file associated with each week, to allow for easier dependency management.
+Weeks 1-8 can be found in src. Each folder will contain course work related to that week. You will find that requirements.txt files begin to appear in week 3, this allows for the notebooks to be ran locally from where the repository is cloned, just by sourcing the setup.sh file in the corresponding week's folder.
 
 **Technologies**
 Python, Jupyter, GEMINI SDKs, Google Collab, Huggingface
