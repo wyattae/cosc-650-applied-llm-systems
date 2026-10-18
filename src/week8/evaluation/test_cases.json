@@ -1,0 +1,84 @@
+
+[
+  {
+    "id": 1,
+    "category": "rag",
+    "question": "What factors should I consider when choosing a location for my vegetable garden?",
+    "expected_route": "rag",
+    "expected_keywords": ["sunlight", "water", "wind", "soil"]
+  },
+  {
+    "id": 2,
+    "category": "rag",
+    "question": "What are the benefits of adding compost to vegetable garden soil?",
+    "expected_route": "rag",
+    "expected_keywords": ["compost", "soil"]
+  },
+  {
+    "id": 3,
+    "category": "rag",
+    "question": "How can I prevent pests from damaging my vegetable garden?",
+    "expected_route": "rag",
+    "expected_keywords": ["pest", "prevention"]
+  },
+  {
+    "id": 4,
+    "category": "rag",
+    "question": "What should I consider when choosing a container for growing vegetables?",
+    "expected_route": "rag",
+    "expected_keywords": ["container", "drainage"]
+  },
+  {
+    "id": 5,
+    "category": "rag",
+    "question": "How should I prepare a raised garden bed before planting?",
+    "expected_route": "rag",
+    "expected_keywords": ["soil", "bed"]
+  },
+  {
+    "id": 6,
+    "category": "tool",
+    "question": "What is the area of a rectangular garden bed that is 12 feet long and 5 feet wide?",
+    "expected_route": "tool",
+    "expected_area_sq_ft": 60
+  },
+  {
+    "id": 7,
+    "category": "tool",
+    "question": "Calculate the area of my garden bed if it measures 8 feet by 4 feet.",
+    "expected_route": "tool",
+    "expected_area_sq_ft": 32
+  },
+  {
+    "id": 8,
+    "category": "tool",
+    "question": "My rectangular garden bed is 6.5 feet long and 3 feet wide. How many square feet is that?",
+    "expected_route": "tool",
+    "expected_area_sq_ft": 19.5
+  },
+  {
+    "id": 9,
+    "category": "tool",
+    "question": "How much area does a 10-foot by 2.5-foot rectangular garden bed cover?",
+    "expected_route": "tool",
+    "expected_area_sq_ft": 25
+  },
+  {
+    "id": 10,
+    "category": "insufficient_context",
+    "question": "What will the exact temperature be in my garden at noon tomorrow?",
+    "expected_route": "abstain"
+  },
+  {
+    "id": 11,
+    "category": "insufficient_context",
+    "question": "What is the exact pH of the soil in my backyard?",
+    "expected_route": "abstain"
+  },
+  {
+    "id": 12,
+    "category": "missing_arguments",
+    "question": "What is the area of my rectangular garden bed if it is 8 feet long?",
+    "expected_route": "clarify"
+  }
+]
