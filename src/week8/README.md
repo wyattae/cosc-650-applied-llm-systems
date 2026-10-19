@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project integrates components from previous assignments into a single LLM application. The system combines retrieval-augmented generation (RAG), tool calling, and prompt engineering to answer gardening questions and perform garden bed calculations.
+This project integrates components from previous assignments into a single LLM application. The system combines retrieval-augmented generation (RAG), tool calling, and prompt engineering to answer gardening questions and perform garden bed calculations. ChatGPT 5.6 Sol was used for code generation, and all code was fully understood before integrating into the notebook.
 
 ## Architecture
 
@@ -14,6 +14,16 @@ The application follows this general workflow:
 - **Gemini 3.5 Flash Lite:** Generates responses using retrieved context and determines when calculator execution is appropriate.
 - **Calculator Tool:** Calculates rectangular garden bed areas using provided dimensions.
 - **Evaluation Framework:** Compares prompt versions using deterministic checks and LLM-as-judge evaluation.
+
+## Reused Components from Previous Weeks
+
+The Week 8 capstone integrates components developed throughout the course into a single RAG and tool-calling application.
+
+| Week | Reused Component | Purpose |
+|---|---|---|
+| **Week 3 — Systematic Prompt Engineering** | Prompt versioning (V1 and V2) | Compare system instructions and evaluate improvements in grounding, tool selection, and response consistency. |
+| **Week 4 — Function Calling and Tool Use** | Python tool-calling framework | Enable the LLM to invoke a deterministic calculator tool for garden bed area calculations. |
+| **Week 5 — RAG Foundations** | Gardening RAG pipeline, semantic embeddings, and FAISS | Retrieve relevant gardening documents to support grounded responses. |
 
 ## Techniques and Design Decisions
 
