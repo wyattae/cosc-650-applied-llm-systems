@@ -1,30 +1,60 @@
-**Description:**  
-This project will serve as an artificat for course work in **COSC-650 Applied LLM Systems**, during the Fall of 2026.  
-The general workflow for this repository will be the following: 
-1. Course Material will be read through the University's canvas online course portal. Publicly available readings will be added to src/week1-8/weekly_readings.txt.
-2. Artifacts will be updated to the associated src/week folder
-3. Issues will be created for every assignment and corresponding research note for every assignment
-4. Issues will be linked in pull requests
-5. Branch naming conventions will reference issues, such as WE_1 (Wyatt Engel, issue 1)
-6. Course work that requires Jupyter notebooks will be worked in google Collab
-7. Once an assignment is complete a pull request will be opened and work will be merged to main (protected branch)
+# COSC-650 Applied LLM Systems
 
-**About the course**  
-COSC-650 Applied LLM Systems is a new course offering in Maryville University's Computer Science department. This course will satisify 3 elective credits in the M.S Artificial Intelligence course path. 
+## Weekly Coursework
 
-The 8 week course will cover the topics below. Additional details and context will be added as weeks progress.  
- Week 1 | Tokenization and Text Representation  
- Week 2 | Architecture, Inference, and Sampling  
- Week 3 | Systematic Prompt Engineering  
- Week 4 | Function Calling and Tool Use  
- Week 5 | Retrieval-Augmented Generation (RAG) Foundations  
- Week 6 | Advanced RAG and Knowledge Systems  
- Week 7 | Fine-Tuning and Adaptation  
- Week 8 | Evaluation, Testing, QA, and Integration  
+This repository documents eight weeks of coursework completed for **COSC-650 Applied LLM Systems** at Maryville University during Fall 2026.
 
+Each week focuses on a different aspect of developing, integrating, and evaluating Large Language Model (LLM) applications.
 
-**Repository Layout**  
-Weeks 1-8 can be found in src. Each folder will contain course work related to that week. You will find that requirements.txt files begin to appear in week 3, this allows for the notebooks to be ran locally from where the repository is cloned, just by sourcing the setup.sh file in the corresponding week's folder.
+| Week | Topic | Description |
+|---|---|---|
+| **Week 1** | Tokenization and Text Representation | Explored tokenization, text representation, and differences in token efficiency across languages and models. |
+| **Week 2** | Architecture, Inference, and Sampling | Investigated LLM inference and how temperature, top-k, and top-p sampling influence generated responses. |
+| **Week 3** | Systematic Prompt Engineering | Developed and evaluated prompt versions using structured outputs, test cases, and regression analysis. |
+| **Week 4** | Function Calling and Tool Use | Implemented tool schemas, function calling, tool execution, and validation of model-generated arguments. |
+| **Week 5** | Retrieval-Augmented Generation (RAG) Foundations | Built a gardening RAG pipeline using document chunking, semantic embeddings, FAISS, and retrieval evaluation. |
+| **Week 6** | Advanced RAG and Knowledge Systems | Explored query transformations, reranking, and retrieval performance comparisons. |
+| **Week 7** | Fine-Tuning and Adaptation | Compared zero-shot and dynamic few-shot classification using synthetic datasets and semantic example retrieval. |
+| **Week 8** | Evaluation, Testing, QA, and Integration | Integrated RAG and tool calling into a single application and evaluated tool accuracy, grounding, and system failures. |
 
-**Technologies**
-Python, Jupyter, GEMINI SDKs, Google Collab, Huggingface
+## Description
+
+This repository serves as an artifact of coursework completed during **COSC-650 Applied LLM Systems**, part of the M.S. Artificial Intelligence program at Maryville University.
+
+The repository contains Python implementations, Jupyter notebooks, evaluation datasets, research notes, and supporting documentation developed throughout the course.
+
+## Repository Workflow
+
+The general development workflow for this repository is:
+
+1. Course materials are reviewed through the university's Canvas portal. Public readings are documented in the corresponding `src/week1-8/weekly_readings.txt` files.
+2. Assignment artifacts are maintained in their associated `src/week` directories.
+3. GitLab issues are created for each assignment and corresponding research note.
+4. Issues are referenced in merge requests to maintain traceability.
+5. Branch naming conventions reference issue numbers, such as `WE_1` (Wyatt Engel, Issue 1).
+6. Jupyter notebooks are developed using Google Colab or a local Python environment.
+7. Completed assignments are submitted through merge requests and merged into the protected `main` branch.
+
+## About the Course
+
+**COSC-650 Applied LLM Systems** is a graduate-level course offered through Maryville University's Computer Science department.
+
+The course satisfies three elective credits toward the **M.S. Artificial Intelligence** degree and covers the development, adaptation, integration, and evaluation of LLM-powered applications.
+
+## Repository Layout
+
+Coursework for Weeks 1–8 is organized under the `src/` directory. Each folder contains the notebooks, source code, datasets, and supporting materials associated with that week's assignment.
+
+Beginning in Week 3, dependency files and setup scripts are included where applicable to support running notebooks locally after cloning the repository.
+
+## Technologies
+
+**Languages:** Python
+
+**Development:** Jupyter Notebook, Google Colab, VS Code, GitLab
+
+**LLM Integration:** Google Gemini, LLM APIs, Function Calling
+
+**Retrieval and Embeddings:** FAISS, Hugging Face, Sentence Transformers
+
+**Evaluation:** RAGAS, deterministic testing, LLM-as-Judge, regression testing
