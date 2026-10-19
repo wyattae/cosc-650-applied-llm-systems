@@ -1,0 +1,20 @@
+[
+  {
+    "id": 12,
+    "prompt_version": "v2",
+    "original_correctness": 1,
+    "reviewed_correctness": 5,
+    "original_grounding": 5,
+    "reviewed_grounding": 5,
+    "reason": "The assistant correctly requested the missing width without inventing dimensions or invoking the calculator. The original judge score contradicted its explanation."
+  },
+  {
+    "id": 3,
+    "prompt_version": "v1",
+    "original_correctness": 1,
+    "reviewed_correctness": 5,
+    "original_grounding": 1,
+    "reviewed_grounding": 5,
+    "reason": "The judge incorrectly identified supported pest-prevention recommendations as hallucinations. The recommendations are present in gardening_pests.pdf chunks 0 and 1 and gardening_planters.pdf chunk 23."
+  }
+]
